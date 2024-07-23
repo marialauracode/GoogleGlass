@@ -2,18 +2,18 @@
 
 .conteudo {
   width: 1000px;
-  height: 300px; /* Ajuste conforme necessário */
+  height: 300px; 
   margin: auto;
-  position: relative; /* Permite posicionamento absoluto dos filhos */
+  position: relative; 
 }
 
 .iframe-container {
   width: 380px;
   height: 280px;
-  overflow: hidden; /* Esconde as barras de rolagem */
-  position: absolute; /* Permite posicionamento absoluto */
-  top: 0; /* Posiciona no topo */
-  right: 110px; /* Posiciona no canto direito */
+  overflow: hidden; 
+  position: absolute; 
+  top: 0;
+  right: 110px; 
   
 }
 
@@ -24,12 +24,12 @@
 }
 
 .iframe-content {
-  overflow-y: scroll; /* Permite a rolagem vertical */
-  overflow-x: hidden; /* Esconde a rolagem horizontal */
-  -ms-overflow-style: none; /* Internet Explorer 10+ */
-  scrollbar-width: none; /* Firefox */
+  overflow-y: scroll; 
+  overflow-x: hidden; 
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
 }
 
 .iframe-content::-webkit-scrollbar {
-  display: none; /* Safari e Chrome */
+  display: none; 
 }
