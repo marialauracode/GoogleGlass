@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d0c70462-7fab-4ca3-9121-13b218e4e22c)
+
+
 ### 📂 Sobre o Projeto
 
 * Réplica de um antigo site do Google Glass;
@@ -15,7 +18,3 @@
 * Estruturação da página com HTML;
 * Estilização e efeitos visuais utilizando CSS;
 * Pequenas interações adicionadas com JavaScript.
-  
-### 🖼 Gravação de tela
-* Clique no link abaixo para visualizar a publicação no Linkedin do projeto:
-* https://www.linkedin.com/posts/devmariaa_desenvolvimentoweb-html-css-activity-7217944350704496640-IynO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBbaC8Bn6QzHbRQLXVA9aNqlNFFiNAbLEw
