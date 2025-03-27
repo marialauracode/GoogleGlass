@@ -15,6 +15,7 @@
   
 ### 📦 Funcionalidades
 
-* Estruturação da página com HTML;
+* Estruturação da página com HTML, sendo apenas visual
+e sem responsividade;
 * Estilização e efeitos visuais utilizando CSS;
 * Pequenas interações adicionadas com JavaScript.
